@@ -1,0 +1,14 @@
+public class PrimeiroProg{
+
+public void bomDia(){
+
+	
+	System.out.println("acordar");
+
+}
+public void boaNoite(){
+
+	System.out.println("dormir");
+	
+}
+}
